@@ -1,6 +1,6 @@
 # Welcome to the project
 
-I made this protytpe to show the industry for their website, Hope you will like it
+I made this prototpe to show the industry for their website, Hope you would like it.
 
 ## Project info
 
